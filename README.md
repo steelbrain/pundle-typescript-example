@@ -1,5 +1,7 @@
 # Pundle Typescript example
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/steelbrain/pundle-typescript-example.svg)](https://greenkeeper.io/)
+
 ## How to compile dist files?
 
 Dist files after compilation will be placed in the `public` dir.
